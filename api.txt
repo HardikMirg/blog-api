@@ -1,0 +1,13 @@
+- /
+
+- /api
+    /
+
+
+user login
+fetch user
+
+fetch blog   // no auth
+post blog    // auth required
+update blog  // auth required
+delete blog  // auth required
